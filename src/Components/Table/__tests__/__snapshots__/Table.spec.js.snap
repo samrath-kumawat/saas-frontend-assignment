@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table Component match snapshots 1`] = `
+<DocumentFragment>
+  <div
+    class="container"
+  >
+    <table
+      class="tableBody"
+    >
+      <thead>
+        <tr
+          class="tableHeaderRow"
+        >
+          <th
+            class="tableHeader thFirstCellRadius"
+          >
+            S.No.
+          </th>
+          <th
+            class="tableHeader"
+          >
+            Percentage Funded
+          </th>
+          <th
+            class="tableHeader thLastCellRadius"
+          >
+            Amount Pledged
+          </th>
+        </tr>
+        <tr />
+        <tr />
+      </thead>
+      <tbody />
+    </table>
+  </div>
+</DocumentFragment>
+`;
