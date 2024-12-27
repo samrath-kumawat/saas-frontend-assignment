@@ -4,5 +4,4 @@ node_modules
 !/coverage/lcov.info
 
 .DS_Store
-/build
 /.vscode
